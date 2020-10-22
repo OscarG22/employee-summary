@@ -21,7 +21,7 @@ class Engineer extends Employee {
     }
 
     getRole() {
-        return 'Engieer'
+        return 'Engieer';
     }
 };
 
